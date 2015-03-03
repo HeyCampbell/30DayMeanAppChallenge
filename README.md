@@ -1,3 +1,13 @@
+## My 30 Day Mean Stack Challenge 
+
+I'll be following along with [The Bossable's 30 day Mean Stack Challenge](http://www.bossable.com/555/mean-app-challenge/) in order to get my hands dirty with some full stack JS.
+
+
+
+
+
+
+
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
 [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)
